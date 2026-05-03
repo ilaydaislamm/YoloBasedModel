@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+yolov5
+python-multipart
+Pillow
+torch
+torchvision
+torchaudio
